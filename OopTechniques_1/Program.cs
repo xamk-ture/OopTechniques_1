@@ -1,4 +1,6 @@
-﻿using OopTechniques_1.Logger;
+﻿using OopTechniques_1.Bank;
+using OopTechniques_1.Logger;
+using OopTechniques_1.Vehicle;
 
 namespace OopTechniques_1
 {
@@ -29,6 +31,4 @@ namespace OopTechniques_1
             fileLogger.WriteToFile("This is a file log.");
         }
     }
-
-
 }
